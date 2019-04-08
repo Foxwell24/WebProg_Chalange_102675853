@@ -1,0 +1,11 @@
+
+body {
+    background-image: url("256x256tileset.png");
+    opacity: 500;
+}
+
+.header {
+    border: 3px solid green;
+    height: 200px;
+
+}
